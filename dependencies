@@ -1,0 +1,2 @@
+./obj_files/CircularList.o: src_files/CircularList.c inc_files/node.h inc_files/cl.h
+./obj_files/main.o: src_files/main.c inc_files/cl.h inc_files/node.h
